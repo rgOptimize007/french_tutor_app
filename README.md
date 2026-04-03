@@ -66,7 +66,7 @@ npm run build
 npm run start
 ```
 
-## 📖 Usage
+## 📖 Possible Future Upgrades
 
 1. Create an account or log in
 2. Choose your learning level (Beginner, Intermediate, Advanced)
@@ -77,11 +77,19 @@ npm run start
 
 ## 🎓 Learning Modules
 
+ **Current Modules** 
+    * Module 1: Order at a cafe
+    * Module 2: Greet new people
+    * Module 3: Talk about family
+    * Module 4: Discuss people's traits
+    * Module 5: Describe what you want to buy
+
+*Focus is on following factors*
+
 - **Vocabulary Builder** – Learn essential French words with context
 - **Grammar Master** – Master French grammar rules through interactive exercises
 - **Conversation Practice** – Improve your speaking and listening skills
 - **Reading Comprehension** – Enhance your reading abilities
-- **Cultural Insights** – Learn about French culture and traditions
 
 ## 🤝 Contributing
 
@@ -95,17 +103,9 @@ We welcome contributions! Here's how you can help:
 
 Please ensure your code follows our style guidelines and includes appropriate tests.
 
-## 📝 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
 ## 🐛 Bug Reports & Features
 
 Found a bug or have a feature request? Please [open an issue](https://github.com/rgOptimize007/french_tutor_app/issues) and let us know!
-
-## 💬 Support
-
-Have questions? Join our community discussions or reach out to us at support@frenchtutorapp.com
 
 ---
 
