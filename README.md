@@ -77,15 +77,6 @@ npm run start
 
 ## 🎓 Learning Modules
 
- **Current Modules** 
-    * Module 1: Order at a cafe
-    * Module 2: Greet new people
-    * Module 3: Talk about family
-    * Module 4: Discuss people's traits
-    * Module 5: Describe what you want to buy
-
-*Focus is on following factors*
-
 - **Vocabulary Builder** – Learn essential French words with context
 - **Grammar Master** – Master French grammar rules through interactive exercises
 - **Conversation Practice** – Improve your speaking and listening skills
