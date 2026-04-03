@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sky: #70d6ff;
+  --color-pink: #ff70a6;
+  --color-coral: #ff9770;
+  --color-yellow: #ffd670;
+  --color-lime: #e9ff70;
+}
+
+body {
+  background-color: #70d6ff;
+  background-image: radial-gradient(at 0% 0%, #ff70a6 0, transparent 50%), 
+                    radial-gradient(at 50% 0%, #ff9770 0, transparent 50%), 
+                    radial-gradient(at 100% 0%, #ffd670 0, transparent 50%);
+  min-height: 100vh;
+}

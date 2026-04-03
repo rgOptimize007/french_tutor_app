@@ -1,0 +1,7 @@
+{
+  "name": "Remix: English to French Learning App",
+  "description": "An elite pedagogical AI specialized in SLA for native English speakers, moving learners from A0 to B2 through adaptive, gamified journeys.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
